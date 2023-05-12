@@ -37,5 +37,5 @@
     
 ## For  Admin login:
 
-    username:"dkp" password:"Dkp@4321"
+    username:"superuser" password:"superuser123"
 
